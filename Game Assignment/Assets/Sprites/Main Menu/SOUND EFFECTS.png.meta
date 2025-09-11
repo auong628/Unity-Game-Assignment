@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 5285ea5115084954a8b2ab3550175e9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6473169330795399363
+    second: SOUND EFFECTS_0
+  - first:
+      213: 4497032377165483947
+    second: SOUND EFFECTS_1
+  - first:
+      213: -1514167091591551466
+    second: SOUND EFFECTS_2
+  - first:
+      213: -7964375969186573092
+    second: SOUND EFFECTS_3
+  - first:
+      213: -2472901862098893174
+    second: SOUND EFFECTS_4
+  - first:
+      213: 2598653400194451484
+    second: SOUND EFFECTS_5
+  - first:
+      213: 8070645708139995698
+    second: SOUND EFFECTS_6
+  - first:
+      213: 7235516185427175678
+    second: SOUND EFFECTS_7
+  - first:
+      213: -7031755008917739297
+    second: SOUND EFFECTS_8
+  - first:
+      213: -5722189936944798932
+    second: SOUND EFFECTS_9
+  - first:
+      213: -8200218256354553248
+    second: SOUND EFFECTS_10
+  - first:
+      213: 6231004848582589099
+    second: SOUND EFFECTS_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SOUND EFFECTS_0
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 513
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37bcfa3aceaa26a0800000000000000
+      internalID: -6473169330795399363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 513
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0168ee1ba86e30800000000000000
+      internalID: 4497032377165483947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 513
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61669177d099cfae0800000000000000
+      internalID: -1514167091591551466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_3
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 514
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd41afac04ad87190800000000000000
+      internalID: -7964375969186573092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 514
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a868131cbdc7eadd0800000000000000
+      internalID: -2472901862098893174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 514
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1883fccf75401420800000000000000
+      internalID: 2598653400194451484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 514
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23227bde281b00070800000000000000
+      internalID: 8070645708139995698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 514
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e9fe92a7b96460800000000000000
+      internalID: 7235516185427175678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_8
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 514
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd862e143103a6e90800000000000000
+      internalID: -7031755008917739297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 513
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23271fd192b690b0800000000000000
+      internalID: -5722189936944798932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_10
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 514
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062505541f8f23e80800000000000000
+      internalID: -8200218256354553248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND EFFECTS_11
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 513
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa708185e9f87650800000000000000
+      internalID: 6231004848582589099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SOUND EFFECTS_0: -6473169330795399363
+      SOUND EFFECTS_1: 4497032377165483947
+      SOUND EFFECTS_10: -8200218256354553248
+      SOUND EFFECTS_11: 6231004848582589099
+      SOUND EFFECTS_2: -1514167091591551466
+      SOUND EFFECTS_3: -7964375969186573092
+      SOUND EFFECTS_4: -2472901862098893174
+      SOUND EFFECTS_5: 2598653400194451484
+      SOUND EFFECTS_6: 8070645708139995698
+      SOUND EFFECTS_7: 7235516185427175678
+      SOUND EFFECTS_8: -7031755008917739297
+      SOUND EFFECTS_9: -5722189936944798932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

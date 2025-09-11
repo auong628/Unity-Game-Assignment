@@ -1,0 +1,1514 @@
+fileFormatVersion: 2
+guid: 3447248dc1bfd014bb3e5a5fc90d660c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8960916018060968347
+    second: lv1 06_0
+  - first:
+      213: -8456548055927649196
+    second: lv1 06_1
+  - first:
+      213: -7217565835830087413
+    second: lv1 06_2
+  - first:
+      213: -1346017729446869548
+    second: lv1 06_3
+  - first:
+      213: 3509134297535092632
+    second: lv1 06_4
+  - first:
+      213: 3154367336894378856
+    second: lv1 06_5
+  - first:
+      213: -4882472940883312399
+    second: lv1 06_6
+  - first:
+      213: 8860891949706836721
+    second: lv1 06_7
+  - first:
+      213: 4051048036540969186
+    second: lv1 06_8
+  - first:
+      213: -4077023994346585122
+    second: lv1 06_9
+  - first:
+      213: 4951057942180345149
+    second: lv1 06_10
+  - first:
+      213: 8857294357388293276
+    second: lv1 06_11
+  - first:
+      213: -4891664685717450650
+    second: lv1 06_12
+  - first:
+      213: 9120583288784091494
+    second: lv1 06_13
+  - first:
+      213: -4907961727185899372
+    second: lv1 06_14
+  - first:
+      213: -7841860145816031004
+    second: lv1 06_15
+  - first:
+      213: 4366797936627342007
+    second: lv1 06_16
+  - first:
+      213: 5970163326565020059
+    second: lv1 06_17
+  - first:
+      213: -6464411831628473207
+    second: lv1 06_18
+  - first:
+      213: 2958696736496213910
+    second: lv1 06_19
+  - first:
+      213: 4261459004112105781
+    second: lv1 06_20
+  - first:
+      213: -9175211704516835286
+    second: lv1 06_21
+  - first:
+      213: -8777684048223529987
+    second: lv1 06_22
+  - first:
+      213: 5395473981670748169
+    second: lv1 06_23
+  - first:
+      213: -1541286169150067967
+    second: lv1 06_24
+  - first:
+      213: 7852209920663542679
+    second: lv1 06_25
+  - first:
+      213: 5911610141007968777
+    second: lv1 06_26
+  - first:
+      213: -493984088512736130
+    second: lv1 06_27
+  - first:
+      213: -8434981955215040025
+    second: lv1 06_28
+  - first:
+      213: -3779414657038730177
+    second: lv1 06_29
+  - first:
+      213: -1177419609735282399
+    second: lv1 06_30
+  - first:
+      213: -2459187754101148065
+    second: lv1 06_31
+  - first:
+      213: -7438102623984629777
+    second: lv1 06_32
+  - first:
+      213: 808259671084829234
+    second: lv1 06_33
+  - first:
+      213: 8436816216294904352
+    second: lv1 06_34
+  - first:
+      213: 1103374860899699299
+    second: lv1 06_35
+  - first:
+      213: 7729097746713555772
+    second: lv1 06_36
+  - first:
+      213: 6669791470900167632
+    second: lv1 06_37
+  - first:
+      213: 7054933501202434901
+    second: lv1 06_38
+  - first:
+      213: -200864393142853045
+    second: lv1 06_39
+  - first:
+      213: -3001933496107797471
+    second: lv1 06_40
+  - first:
+      213: -744264731802029391
+    second: lv1 06_41
+  - first:
+      213: -2296606275346869223
+    second: lv1 06_42
+  - first:
+      213: 2391563393763946509
+    second: lv1 06_43
+  - first:
+      213: -156197610636077017
+    second: lv1 06_44
+  - first:
+      213: -4567454394011197929
+    second: lv1 06_45
+  - first:
+      213: 5519718003659163553
+    second: lv1 06_46
+  - first:
+      213: -2328318671121975459
+    second: lv1 06_47
+  - first:
+      213: -8459617018571399663
+    second: lv1 06_48
+  - first:
+      213: -503766265299425296
+    second: lv1 06_49
+  - first:
+      213: -3520008578032718031
+    second: lv1 06_50
+  - first:
+      213: 5186442594019841543
+    second: lv1 06_51
+  - first:
+      213: 3103237087012854295
+    second: lv1 06_52
+  - first:
+      213: -8107725615859920784
+    second: lv1 06_53
+  - first:
+      213: -9138323921640726085
+    second: lv1 06_54
+  - first:
+      213: 6430932747682642905
+    second: lv1 06_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv1 06_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e3e59cb5e64a380800000000000000
+      internalID: -8960916018060968347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_1
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 994
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c896c095e44aa80800000000000000
+      internalID: -8456548055927649196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_2
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 954
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013a54dc1e06db90800000000000000
+      internalID: -7217565835830087413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_3
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 954
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d501fea10cf15de0800000000000000
+      internalID: -1346017729446869548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_4
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 944
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89718b92d03f2b030800000000000000
+      internalID: 3509134297535092632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_5
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 924
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8633fae516096cb20800000000000000
+      internalID: 3154367336894378856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 834
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0813d8ab8fd3cb0800000000000000
+      internalID: -4882472940883312399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_7
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 774
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf46ff74638fa70800000000000000
+      internalID: 8860891949706836721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_8
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 814
+        width: 142
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07112d9b6383830800000000000000
+      internalID: 4051048036540969186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_9
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 794
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed34a3437408b67c0800000000000000
+      internalID: -4077023994346585122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_10
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 874
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35390277f0b5b440800000000000000
+      internalID: 4951057942180345149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_11
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 814
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9473334a4e6bea70800000000000000
+      internalID: 8857294357388293276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 714
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601d7fa2e05d1cb0800000000000000
+      internalID: -4891664685717450650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669f650ad22d29e70800000000000000
+      internalID: 9120583288784091494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 724
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903fd700da63ebb0800000000000000
+      internalID: -4907961727185899372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 704
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0b75ecebd1c2390800000000000000
+      internalID: -7841860145816031004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_16
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 794
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bad49a469bf99c30800000000000000
+      internalID: 4366797936627342007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 754
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91f8fa0ae74ad250800000000000000
+      internalID: 5970163326565020059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_18
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 734
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cd3f560bbc946a0800000000000000
+      internalID: -6464411831628473207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 166
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd6f881076f0920800000000000000
+      internalID: 2958696736496213910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531fdf4d26eb32b30800000000000000
+      internalID: 4261459004112105781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 444
+        width: 112
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28844d21991ba080800000000000000
+      internalID: -9175211704516835286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 604
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df316034dd66f2680800000000000000
+      internalID: -8777684048223529987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_23
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 564
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f858fff290ea40800000000000000
+      internalID: 5395473981670748169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 494
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b669e25604c9ae0800000000000000
+      internalID: -1541286169150067967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 424
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bd2fee157a8fc60800000000000000
+      internalID: 7852209920663542679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_26
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 504
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a70692a124a0250800000000000000
+      internalID: 5911610141007968777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_27
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 504
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74d087b6140529f0800000000000000
+      internalID: -493984088512736130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_28
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 314
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e3982a9ce0fa80800000000000000
+      internalID: -8434981955215040025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_29
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 374
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c3d44c462dc8bc0800000000000000
+      internalID: -3779414657038730177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_30
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 344
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121462a6a17f8afe0800000000000000
+      internalID: -1177419609735282399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f567fc854c53fddd0800000000000000
+      internalID: -2459187754101148065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 264
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ce7e721d86c890800000000000000
+      internalID: -7438102623984629777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 264
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a094573e3873b00800000000000000
+      internalID: 808259671084829234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 234
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022538706a7951570800000000000000
+      internalID: 8436816216294904352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 264
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac50e0799ff4f00800000000000000
+      internalID: 1103374860899699299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_36
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 234
+        width: 26
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33322b3375434b60800000000000000
+      internalID: 7729097746713555772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 104
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34fe4310cdf8c50800000000000000
+      internalID: 6669791470900167632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 194
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b8c2504a828e160800000000000000
+      internalID: 7054933501202434901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_39
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 94
+        width: 102
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4222be06e2663df0800000000000000
+      internalID: -200864393142853045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_40
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124f525e36df656d0800000000000000
+      internalID: -3001933496107797471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_41
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 194
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b6127b27dba5f0800000000000000
+      internalID: -744264731802029391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_42
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 144
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145401b2c0d020e0800000000000000
+      internalID: -2296606275346869223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00b02f4c3a803120800000000000000
+      internalID: 2391563393763946509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 94
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289547c91315ddf0800000000000000
+      internalID: -156197610636077017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e5a259d642d90c0800000000000000
+      internalID: -4567454394011197929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_46
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 162
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7ce64974af99c40800000000000000
+      internalID: 5519718003659163553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_47
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 74
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d577ddb218620bfd0800000000000000
+      internalID: -2328318671121975459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_48
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 24
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed3308427699a80800000000000000
+      internalID: -8459617018571399663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_49
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 44
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7a00330434209f0800000000000000
+      internalID: -503766265299425296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f280c19da662fc0800000000000000
+      internalID: -3520008578032718031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70612807f02f9f740800000000000000
+      internalID: 5186442594019841543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a183160b9e01b20800000000000000
+      internalID: 3103237087012854295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_53
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070955a42829b7f80800000000000000
+      internalID: -8107725615859920784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_54
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb166286fc62e2180800000000000000
+      internalID: -9138323921640726085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv1 06_55
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbfc00f2434f3950800000000000000
+      internalID: 6430932747682642905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lv1 06_0: -8960916018060968347
+      lv1 06_1: -8456548055927649196
+      lv1 06_10: 4951057942180345149
+      lv1 06_11: 8857294357388293276
+      lv1 06_12: -4891664685717450650
+      lv1 06_13: 9120583288784091494
+      lv1 06_14: -4907961727185899372
+      lv1 06_15: -7841860145816031004
+      lv1 06_16: 4366797936627342007
+      lv1 06_17: 5970163326565020059
+      lv1 06_18: -6464411831628473207
+      lv1 06_19: 2958696736496213910
+      lv1 06_2: -7217565835830087413
+      lv1 06_20: 4261459004112105781
+      lv1 06_21: -9175211704516835286
+      lv1 06_22: -8777684048223529987
+      lv1 06_23: 5395473981670748169
+      lv1 06_24: -1541286169150067967
+      lv1 06_25: 7852209920663542679
+      lv1 06_26: 5911610141007968777
+      lv1 06_27: -493984088512736130
+      lv1 06_28: -8434981955215040025
+      lv1 06_29: -3779414657038730177
+      lv1 06_3: -1346017729446869548
+      lv1 06_30: -1177419609735282399
+      lv1 06_31: -2459187754101148065
+      lv1 06_32: -7438102623984629777
+      lv1 06_33: 808259671084829234
+      lv1 06_34: 8436816216294904352
+      lv1 06_35: 1103374860899699299
+      lv1 06_36: 7729097746713555772
+      lv1 06_37: 6669791470900167632
+      lv1 06_38: 7054933501202434901
+      lv1 06_39: -200864393142853045
+      lv1 06_4: 3509134297535092632
+      lv1 06_40: -3001933496107797471
+      lv1 06_41: -744264731802029391
+      lv1 06_42: -2296606275346869223
+      lv1 06_43: 2391563393763946509
+      lv1 06_44: -156197610636077017
+      lv1 06_45: -4567454394011197929
+      lv1 06_46: 5519718003659163553
+      lv1 06_47: -2328318671121975459
+      lv1 06_48: -8459617018571399663
+      lv1 06_49: -503766265299425296
+      lv1 06_5: 3154367336894378856
+      lv1 06_50: -3520008578032718031
+      lv1 06_51: 5186442594019841543
+      lv1 06_52: 3103237087012854295
+      lv1 06_53: -8107725615859920784
+      lv1 06_54: -9138323921640726085
+      lv1 06_55: 6430932747682642905
+      lv1 06_6: -4882472940883312399
+      lv1 06_7: 8860891949706836721
+      lv1 06_8: 4051048036540969186
+      lv1 06_9: -4077023994346585122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

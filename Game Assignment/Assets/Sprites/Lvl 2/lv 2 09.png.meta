@@ -1,0 +1,2414 @@
+fileFormatVersion: 2
+guid: 4f8f08c358fa7fc49a3375ebffd49a54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7976134341638529717
+    second: lv 2 09_0
+  - first:
+      213: 8070505518652382838
+    second: lv 2 09_1
+  - first:
+      213: -1827242818892926566
+    second: lv 2 09_2
+  - first:
+      213: -3278364105656150188
+    second: lv 2 09_3
+  - first:
+      213: 7429192228779137377
+    second: lv 2 09_4
+  - first:
+      213: -5844906126061573122
+    second: lv 2 09_5
+  - first:
+      213: 368085890781024992
+    second: lv 2 09_6
+  - first:
+      213: -1106486385992054043
+    second: lv 2 09_7
+  - first:
+      213: -1255462023347275604
+    second: lv 2 09_8
+  - first:
+      213: -7081459323564695964
+    second: lv 2 09_9
+  - first:
+      213: -1880208239994951737
+    second: lv 2 09_10
+  - first:
+      213: 1729228781468270818
+    second: lv 2 09_11
+  - first:
+      213: -7226416563022236545
+    second: lv 2 09_12
+  - first:
+      213: -5065892995174578710
+    second: lv 2 09_13
+  - first:
+      213: -5662324638799400092
+    second: lv 2 09_14
+  - first:
+      213: -6066965274655172733
+    second: lv 2 09_15
+  - first:
+      213: 3815608029534019954
+    second: lv 2 09_16
+  - first:
+      213: -717977677143514642
+    second: lv 2 09_17
+  - first:
+      213: 3099290137918592535
+    second: lv 2 09_18
+  - first:
+      213: 2431387445963597642
+    second: lv 2 09_19
+  - first:
+      213: -4803376468374962944
+    second: lv 2 09_20
+  - first:
+      213: 7288015888607997098
+    second: lv 2 09_21
+  - first:
+      213: 3339910521661393161
+    second: lv 2 09_22
+  - first:
+      213: 7821652011863469915
+    second: lv 2 09_23
+  - first:
+      213: 4437303749650938087
+    second: lv 2 09_24
+  - first:
+      213: -3958275202269165443
+    second: lv 2 09_25
+  - first:
+      213: -4434420264541997755
+    second: lv 2 09_26
+  - first:
+      213: 5208314277142635456
+    second: lv 2 09_27
+  - first:
+      213: -706768094427865081
+    second: lv 2 09_28
+  - first:
+      213: 542899466443955054
+    second: lv 2 09_29
+  - first:
+      213: -6649890994469193470
+    second: lv 2 09_30
+  - first:
+      213: 9214409042998789316
+    second: lv 2 09_31
+  - first:
+      213: -7156844295641245794
+    second: lv 2 09_32
+  - first:
+      213: 8024413765443807576
+    second: lv 2 09_33
+  - first:
+      213: 5375653307597635316
+    second: lv 2 09_34
+  - first:
+      213: -6342478245270399047
+    second: lv 2 09_35
+  - first:
+      213: 7376828452046927078
+    second: lv 2 09_36
+  - first:
+      213: -4864313480914217648
+    second: lv 2 09_37
+  - first:
+      213: -9084961967980499462
+    second: lv 2 09_38
+  - first:
+      213: -7423600118644546051
+    second: lv 2 09_39
+  - first:
+      213: 3445317035672424113
+    second: lv 2 09_40
+  - first:
+      213: -3377478112289902292
+    second: lv 2 09_41
+  - first:
+      213: -5614621446403275637
+    second: lv 2 09_42
+  - first:
+      213: -2026995793164235622
+    second: lv 2 09_43
+  - first:
+      213: -2358571209038987392
+    second: lv 2 09_44
+  - first:
+      213: -5734696588356455190
+    second: lv 2 09_45
+  - first:
+      213: 6920586711383047721
+    second: lv 2 09_46
+  - first:
+      213: -7520218889116839837
+    second: lv 2 09_47
+  - first:
+      213: -6948306071564589061
+    second: lv 2 09_48
+  - first:
+      213: -6889888700942409842
+    second: lv 2 09_49
+  - first:
+      213: 3789507478989234431
+    second: lv 2 09_50
+  - first:
+      213: -8293512428856635490
+    second: lv 2 09_51
+  - first:
+      213: 8255166642137354474
+    second: lv 2 09_52
+  - first:
+      213: -8417042162737924315
+    second: lv 2 09_53
+  - first:
+      213: -5333650622090224
+    second: lv 2 09_54
+  - first:
+      213: 8144083953723438422
+    second: lv 2 09_55
+  - first:
+      213: 4939532001956909277
+    second: lv 2 09_56
+  - first:
+      213: -4453662799093720024
+    second: lv 2 09_57
+  - first:
+      213: 4175213176929201433
+    second: lv 2 09_58
+  - first:
+      213: 3186257638359166125
+    second: lv 2 09_59
+  - first:
+      213: -2960660733259640046
+    second: lv 2 09_60
+  - first:
+      213: 1074546560031907362
+    second: lv 2 09_61
+  - first:
+      213: 6809141073832371780
+    second: lv 2 09_62
+  - first:
+      213: 2090615258543586175
+    second: lv 2 09_63
+  - first:
+      213: -6470472442858187672
+    second: lv 2 09_64
+  - first:
+      213: 5217037350912943147
+    second: lv 2 09_65
+  - first:
+      213: 208699616509537178
+    second: lv 2 09_66
+  - first:
+      213: -7065806834016371061
+    second: lv 2 09_67
+  - first:
+      213: -4999812005532905927
+    second: lv 2 09_68
+  - first:
+      213: -8708334327620373110
+    second: lv 2 09_69
+  - first:
+      213: 2031823350033032617
+    second: lv 2 09_70
+  - first:
+      213: -6595540753998650836
+    second: lv 2 09_71
+  - first:
+      213: 419230514597554357
+    second: lv 2 09_72
+  - first:
+      213: -3878743651496967420
+    second: lv 2 09_73
+  - first:
+      213: 8361559590575750146
+    second: lv 2 09_74
+  - first:
+      213: -1127913162032490523
+    second: lv 2 09_75
+  - first:
+      213: 107512371540429102
+    second: lv 2 09_76
+  - first:
+      213: -5360041327237361328
+    second: lv 2 09_77
+  - first:
+      213: -7527762485720214505
+    second: lv 2 09_78
+  - first:
+      213: -1465943028640713393
+    second: lv 2 09_79
+  - first:
+      213: -2266682302017359558
+    second: lv 2 09_80
+  - first:
+      213: -9171416498722537642
+    second: lv 2 09_81
+  - first:
+      213: 15428461190682596
+    second: lv 2 09_82
+  - first:
+      213: -3003271492531210636
+    second: lv 2 09_83
+  - first:
+      213: -6790866586738396586
+    second: lv 2 09_84
+  - first:
+      213: 1027082646182757405
+    second: lv 2 09_85
+  - first:
+      213: -7551474478351753385
+    second: lv 2 09_86
+  - first:
+      213: -7755901219966336529
+    second: lv 2 09_87
+  - first:
+      213: -7063414616951433165
+    second: lv 2 09_88
+  - first:
+      213: -8809477316543055853
+    second: lv 2 09_89
+  - first:
+      213: -3500816818617394448
+    second: lv 2 09_90
+  - first:
+      213: -1117347439809065148
+    second: lv 2 09_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv 2 09_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 644
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a822acebe0be60800000000000000
+      internalID: 7976134341638529717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 654
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eda158202300070800000000000000
+      internalID: 8070505518652382838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 624
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f08d565454a6e0800000000000000
+      internalID: -1827242818892926566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45759f52739e082d0800000000000000
+      internalID: -3278364105656150188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 414
+        width: 112
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169197478fac91760800000000000000
+      internalID: 7429192228779137377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 584
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb689298d8b2eea0800000000000000
+      internalID: -5844906126061573122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e216deda24bb1500800000000000000
+      internalID: 368085890781024992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea432e8e78f4a0f0800000000000000
+      internalID: -1106486385992054043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 604
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8746501f3b39ee0800000000000000
+      internalID: -1255462023347275604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 584
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e5c8fa34a99bd90800000000000000
+      internalID: -7081459323564695964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 574
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a657419828e5e0800000000000000
+      internalID: -1880208239994951737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 554
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e04cc63a647ff710800000000000000
+      internalID: 1729228781468270818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 544
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f747f025c6c96bb90800000000000000
+      internalID: -7226416563022236545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 564
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ca70492552b9b0800000000000000
+      internalID: -5065892995174578710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_14
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 564
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4637b65cdb16b61b0800000000000000
+      internalID: -5662324638799400092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 524
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3875c831a3fcdcba0800000000000000
+      internalID: -6066965274655172733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_16
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 534
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271e0827943c3f430800000000000000
+      internalID: 3815608029534019954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_17
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 524
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1633d4b1b3906f0800000000000000
+      internalID: -717977677143514642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_18
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 504
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716528ea5f3e20b20800000000000000
+      internalID: 3099290137918592535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_19
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 504
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47210400060eb120800000000000000
+      internalID: 2431387445963597642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_20
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 484
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d3a082d8af65db0800000000000000
+      internalID: -4803376468374962944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_21
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 484
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aace1ed46db342560800000000000000
+      internalID: 7288015888607997098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_22
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 484
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90987318ceeb95e20800000000000000
+      internalID: 3339910521661393161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_23
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f67db50171c8c60800000000000000
+      internalID: 7821652011863469915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_24
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 334
+        width: 62
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8f37e1048749d30800000000000000
+      internalID: 4437303749650938087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_25
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 444
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784285eca16119c0800000000000000
+      internalID: -3958275202269165443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_26
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453e239346c572c0800000000000000
+      internalID: -4434420264541997755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 506
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3aeaf7d36a74840800000000000000
+      internalID: 5208314277142635456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_28
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 404
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002c09a92e0136f0800000000000000
+      internalID: -706768094427865081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_29
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 354
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b14263034c88700800000000000000
+      internalID: 542899466443955054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_30
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 374
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20938978f57d6b3a0800000000000000
+      internalID: -6649890994469193470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_31
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 334
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4071f543820ef70800000000000000
+      internalID: 9214409042998789316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_32
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 304
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d58d1808cdac90800000000000000
+      internalID: -7156844295641245794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_33
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8596804fdc17c5f60800000000000000
+      internalID: 8024413765443807576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_34
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 324
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb20ba3382a9a40800000000000000
+      internalID: 5375653307597635316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_35
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 284
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7d30bc3adfaf7a0800000000000000
+      internalID: -6342478245270399047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_36
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 304
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4704d9462cf5660800000000000000
+      internalID: 7376828452046927078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_37
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 324
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d6fd49ac7e7cb0800000000000000
+      internalID: -4864313480914217648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_38
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 294
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afda69c693bbbe180800000000000000
+      internalID: -9084961967980499462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_39
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 224
+        width: 12
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e4a526031af890800000000000000
+      internalID: -7423600118644546051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_40
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 214
+        width: 162
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be4bd1079930df20800000000000000
+      internalID: 3445317035672424113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_41
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 254
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21bd403d89c021d0800000000000000
+      internalID: -3377478112289902292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_42
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84c7d2ca8bd412b0800000000000000
+      internalID: -5614621446403275637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_43
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 244
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0c3bc01aaed3e0800000000000000
+      internalID: -2026995793164235622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_44
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 254
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f74cb4bfba44fd0800000000000000
+      internalID: -2358571209038987392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_45
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 224
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae47e5c26d34a60b0800000000000000
+      internalID: -5734696588356455190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_46
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 234
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e764972fcda0060800000000000000
+      internalID: 6920586711383047721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_47
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 194
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3601201a3c0d2a790800000000000000
+      internalID: -7520218889116839837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 204
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7e3bd0178a29f90800000000000000
+      internalID: -6948306071564589061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_49
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 214
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f995e0bb23260a0800000000000000
+      internalID: -6889888700942409842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_50
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 656
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e6d679f8079430800000000000000
+      internalID: 3789507478989234431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_51
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 204
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f86b9036687ec80800000000000000
+      internalID: -8293512428856635490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_52
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 94
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae05042c25e309270800000000000000
+      internalID: 8255166642137354474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_53
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 154
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52735869fb8a03b80800000000000000
+      internalID: -8417042162737924315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_54
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 154
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0147051b21d0deff0800000000000000
+      internalID: -5333650622090224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_55
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 124
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f4aae439950170800000000000000
+      internalID: 8144083953723438422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 114
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0d05d5f2ebc8440800000000000000
+      internalID: 4939532001956909277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_57
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c95aed7496132c0800000000000000
+      internalID: -4453662799093720024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d2560634651f930800000000000000
+      internalID: 4175213176929201433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_59
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 74
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dace549c07cd73c20800000000000000
+      internalID: 3186257638359166125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_60
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 24
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139c95dfbe99e6d0800000000000000
+      internalID: -2960660733259640046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_61
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 74
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed155376e89ee00800000000000000
+      internalID: 1074546560031907362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_62
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 54
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ec43fabdee7e50800000000000000
+      internalID: 6809141073832371780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_63
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 64
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b7087408b530d10800000000000000
+      internalID: 2090615258543586175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 34
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864db7268934436a0800000000000000
+      internalID: -6470472442858187672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_65
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246c1164d3a66840800000000000000
+      internalID: 5217037350912943147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_66
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bafca023375e200800000000000000
+      internalID: 208699616509537178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_67
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 54
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e3de6ee1631fd90800000000000000
+      internalID: -7065806834016371061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_68
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 24
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4a7a98791d9ab0800000000000000
+      internalID: -4999812005532905927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_69
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 34
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f8d85118c52780800000000000000
+      internalID: -8708334327620373110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_70
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 54
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a52011629c723c10800000000000000
+      internalID: 2031823350033032617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_71
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c226c4001aee774a0800000000000000
+      internalID: -6595540753998650836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_72
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8679d8ee761d500800000000000000
+      internalID: 419230514597554357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_73
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403c8bd033feb2ac0800000000000000
+      internalID: -3878743651496967420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_74
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c378c652a3a0470800000000000000
+      internalID: 8361559590575750146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_75
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7d09f74f8d850f0800000000000000
+      internalID: -1127913162032490523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_76
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2980aaaee5fd7100800000000000000
+      internalID: 107512371540429102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_77
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0519a94cfce4d95b0800000000000000
+      internalID: -5360041327237361328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_78
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 0
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714922d27e3088790800000000000000
+      internalID: -7527762485720214505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_79
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45f8e4159ce7abe0800000000000000
+      internalID: -1465943028640713393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_80
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 14
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a313799a4702b80e0800000000000000
+      internalID: -2266682302017359558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_81
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 14
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f7c72694598b080800000000000000
+      internalID: -9171416498722537642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_82
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 14
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e793bc8a10d63000800000000000000
+      internalID: 15428461190682596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_83
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476be935d7c3256d0800000000000000
+      internalID: -3003271492531210636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_84
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6527364a1def1c1a0800000000000000
+      internalID: -6790866586738396586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_85
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1401b8993ee04e00800000000000000
+      internalID: 1027082646182757405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_86
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f5a6ba8f5c33790800000000000000
+      internalID: -7551474478351753385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_87
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe143e6dee08d5490800000000000000
+      internalID: -7755901219966336529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_88
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338de4754d5b9fd90800000000000000
+      internalID: -7063414616951433165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_89
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f6922e037eb580800000000000000
+      internalID: -8809477316543055853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_90
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fad89ec6a99a6fc0800000000000000
+      internalID: -3500816818617394448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 2 09_91
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 0
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f0d776c626e70f0800000000000000
+      internalID: -1117347439809065148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lv 2 09_0: 7976134341638529717
+      lv 2 09_1: 8070505518652382838
+      lv 2 09_10: -1880208239994951737
+      lv 2 09_11: 1729228781468270818
+      lv 2 09_12: -7226416563022236545
+      lv 2 09_13: -5065892995174578710
+      lv 2 09_14: -5662324638799400092
+      lv 2 09_15: -6066965274655172733
+      lv 2 09_16: 3815608029534019954
+      lv 2 09_17: -717977677143514642
+      lv 2 09_18: 3099290137918592535
+      lv 2 09_19: 2431387445963597642
+      lv 2 09_2: -1827242818892926566
+      lv 2 09_20: -4803376468374962944
+      lv 2 09_21: 7288015888607997098
+      lv 2 09_22: 3339910521661393161
+      lv 2 09_23: 7821652011863469915
+      lv 2 09_24: 4437303749650938087
+      lv 2 09_25: -3958275202269165443
+      lv 2 09_26: -4434420264541997755
+      lv 2 09_27: 5208314277142635456
+      lv 2 09_28: -706768094427865081
+      lv 2 09_29: 542899466443955054
+      lv 2 09_3: -3278364105656150188
+      lv 2 09_30: -6649890994469193470
+      lv 2 09_31: 9214409042998789316
+      lv 2 09_32: -7156844295641245794
+      lv 2 09_33: 8024413765443807576
+      lv 2 09_34: 5375653307597635316
+      lv 2 09_35: -6342478245270399047
+      lv 2 09_36: 7376828452046927078
+      lv 2 09_37: -4864313480914217648
+      lv 2 09_38: -9084961967980499462
+      lv 2 09_39: -7423600118644546051
+      lv 2 09_4: 7429192228779137377
+      lv 2 09_40: 3445317035672424113
+      lv 2 09_41: -3377478112289902292
+      lv 2 09_42: -5614621446403275637
+      lv 2 09_43: -2026995793164235622
+      lv 2 09_44: -2358571209038987392
+      lv 2 09_45: -5734696588356455190
+      lv 2 09_46: 6920586711383047721
+      lv 2 09_47: -7520218889116839837
+      lv 2 09_48: -6948306071564589061
+      lv 2 09_49: -6889888700942409842
+      lv 2 09_5: -5844906126061573122
+      lv 2 09_50: 3789507478989234431
+      lv 2 09_51: -8293512428856635490
+      lv 2 09_52: 8255166642137354474
+      lv 2 09_53: -8417042162737924315
+      lv 2 09_54: -5333650622090224
+      lv 2 09_55: 8144083953723438422
+      lv 2 09_56: 4939532001956909277
+      lv 2 09_57: -4453662799093720024
+      lv 2 09_58: 4175213176929201433
+      lv 2 09_59: 3186257638359166125
+      lv 2 09_6: 368085890781024992
+      lv 2 09_60: -2960660733259640046
+      lv 2 09_61: 1074546560031907362
+      lv 2 09_62: 6809141073832371780
+      lv 2 09_63: 2090615258543586175
+      lv 2 09_64: -6470472442858187672
+      lv 2 09_65: 5217037350912943147
+      lv 2 09_66: 208699616509537178
+      lv 2 09_67: -7065806834016371061
+      lv 2 09_68: -4999812005532905927
+      lv 2 09_69: -8708334327620373110
+      lv 2 09_7: -1106486385992054043
+      lv 2 09_70: 2031823350033032617
+      lv 2 09_71: -6595540753998650836
+      lv 2 09_72: 419230514597554357
+      lv 2 09_73: -3878743651496967420
+      lv 2 09_74: 8361559590575750146
+      lv 2 09_75: -1127913162032490523
+      lv 2 09_76: 107512371540429102
+      lv 2 09_77: -5360041327237361328
+      lv 2 09_78: -7527762485720214505
+      lv 2 09_79: -1465943028640713393
+      lv 2 09_8: -1255462023347275604
+      lv 2 09_80: -2266682302017359558
+      lv 2 09_81: -9171416498722537642
+      lv 2 09_82: 15428461190682596
+      lv 2 09_83: -3003271492531210636
+      lv 2 09_84: -6790866586738396586
+      lv 2 09_85: 1027082646182757405
+      lv 2 09_86: -7551474478351753385
+      lv 2 09_87: -7755901219966336529
+      lv 2 09_88: -7063414616951433165
+      lv 2 09_89: -8809477316543055853
+      lv 2 09_9: -7081459323564695964
+      lv 2 09_90: -3500816818617394448
+      lv 2 09_91: -1117347439809065148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

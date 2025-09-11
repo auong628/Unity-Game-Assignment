@@ -1,0 +1,2139 @@
+fileFormatVersion: 2
+guid: e27b16fbe7cd45f42a1ed1f73e30797d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5046651137494518208
+    second: lv 3 09_0
+  - first:
+      213: 6418030850951261968
+    second: lv 3 09_1
+  - first:
+      213: -5651579537012182449
+    second: lv 3 09_2
+  - first:
+      213: 6810972711605688018
+    second: lv 3 09_3
+  - first:
+      213: 7546295032698038839
+    second: lv 3 09_4
+  - first:
+      213: -1061692569984728583
+    second: lv 3 09_5
+  - first:
+      213: -3982967789898142041
+    second: lv 3 09_6
+  - first:
+      213: 4036759073318007844
+    second: lv 3 09_7
+  - first:
+      213: 4027607135971815454
+    second: lv 3 09_8
+  - first:
+      213: -4204545560861998121
+    second: lv 3 09_9
+  - first:
+      213: -4708667658585028356
+    second: lv 3 09_10
+  - first:
+      213: 3869166123755481403
+    second: lv 3 09_11
+  - first:
+      213: -5625962458585760189
+    second: lv 3 09_12
+  - first:
+      213: -278733738450636746
+    second: lv 3 09_13
+  - first:
+      213: -8860260094420892096
+    second: lv 3 09_14
+  - first:
+      213: -1355848174265163458
+    second: lv 3 09_15
+  - first:
+      213: -268731994868237166
+    second: lv 3 09_16
+  - first:
+      213: 8023699949300243339
+    second: lv 3 09_17
+  - first:
+      213: 1187478966443047339
+    second: lv 3 09_18
+  - first:
+      213: -1522973948963292989
+    second: lv 3 09_19
+  - first:
+      213: -5644902414451981885
+    second: lv 3 09_20
+  - first:
+      213: -8695920814361340003
+    second: lv 3 09_21
+  - first:
+      213: -7861325007406307053
+    second: lv 3 09_22
+  - first:
+      213: -291159041702976412
+    second: lv 3 09_23
+  - first:
+      213: 9032531556926017116
+    second: lv 3 09_24
+  - first:
+      213: 8111800562747874142
+    second: lv 3 09_25
+  - first:
+      213: 1087563545103892058
+    second: lv 3 09_26
+  - first:
+      213: 534770413695026431
+    second: lv 3 09_27
+  - first:
+      213: -2354821324753206912
+    second: lv 3 09_28
+  - first:
+      213: -2621607234650450505
+    second: lv 3 09_29
+  - first:
+      213: -5775232878538000352
+    second: lv 3 09_30
+  - first:
+      213: 840174625884379674
+    second: lv 3 09_31
+  - first:
+      213: -3682144273709861428
+    second: lv 3 09_32
+  - first:
+      213: 1851087496010227058
+    second: lv 3 09_33
+  - first:
+      213: 3662320669689225275
+    second: lv 3 09_34
+  - first:
+      213: 4989712997772176397
+    second: lv 3 09_35
+  - first:
+      213: 5642753989003748555
+    second: lv 3 09_36
+  - first:
+      213: -2959828278925852433
+    second: lv 3 09_37
+  - first:
+      213: -8906303822587095358
+    second: lv 3 09_38
+  - first:
+      213: -3343333550914907553
+    second: lv 3 09_39
+  - first:
+      213: -7031137072631807655
+    second: lv 3 09_40
+  - first:
+      213: 7696318085388827181
+    second: lv 3 09_41
+  - first:
+      213: -8765012578073547662
+    second: lv 3 09_42
+  - first:
+      213: -6318894576853272765
+    second: lv 3 09_43
+  - first:
+      213: 1008041500193512776
+    second: lv 3 09_44
+  - first:
+      213: 6444954383495860659
+    second: lv 3 09_45
+  - first:
+      213: -8740161589737601425
+    second: lv 3 09_46
+  - first:
+      213: -8197066424580403507
+    second: lv 3 09_47
+  - first:
+      213: 3501975961891522845
+    second: lv 3 09_48
+  - first:
+      213: 122287067205380581
+    second: lv 3 09_49
+  - first:
+      213: 2575303685703769978
+    second: lv 3 09_50
+  - first:
+      213: 6436722611662226258
+    second: lv 3 09_51
+  - first:
+      213: -6414148849989801946
+    second: lv 3 09_52
+  - first:
+      213: -975186104909695168
+    second: lv 3 09_53
+  - first:
+      213: -5585288183171108857
+    second: lv 3 09_54
+  - first:
+      213: 3149099072293700872
+    second: lv 3 09_55
+  - first:
+      213: -1031666477413149453
+    second: lv 3 09_56
+  - first:
+      213: -8992373976926575197
+    second: lv 3 09_57
+  - first:
+      213: -8110848280564042964
+    second: lv 3 09_58
+  - first:
+      213: 7931777197877007425
+    second: lv 3 09_59
+  - first:
+      213: 3264814617940070469
+    second: lv 3 09_60
+  - first:
+      213: -3301028607159372862
+    second: lv 3 09_61
+  - first:
+      213: -6236796653678617695
+    second: lv 3 09_62
+  - first:
+      213: -7826494519718874075
+    second: lv 3 09_63
+  - first:
+      213: -1966209752480331326
+    second: lv 3 09_64
+  - first:
+      213: -2807273200486489948
+    second: lv 3 09_65
+  - first:
+      213: 8883170514708675757
+    second: lv 3 09_66
+  - first:
+      213: 6762130666242720470
+    second: lv 3 09_67
+  - first:
+      213: 7595639114025758928
+    second: lv 3 09_68
+  - first:
+      213: -9113222409531841286
+    second: lv 3 09_69
+  - first:
+      213: -8627935665997889230
+    second: lv 3 09_70
+  - first:
+      213: 251781567852181983
+    second: lv 3 09_71
+  - first:
+      213: -4160838484575708612
+    second: lv 3 09_72
+  - first:
+      213: 7770176215305302735
+    second: lv 3 09_73
+  - first:
+      213: 5972743589234030912
+    second: lv 3 09_74
+  - first:
+      213: 5460581177222605006
+    second: lv 3 09_75
+  - first:
+      213: -4573592696239333029
+    second: lv 3 09_76
+  - first:
+      213: -1977174249655115534
+    second: lv 3 09_77
+  - first:
+      213: 7410708962305823432
+    second: lv 3 09_78
+  - first:
+      213: 5397970321758991147
+    second: lv 3 09_79
+  - first:
+      213: 8776206872311272869
+    second: lv 3 09_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv 3 09_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 974
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046715c5781b6f9b0800000000000000
+      internalID: -5046651137494518208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1044
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa2740e0d611950800000000000000
+      internalID: 6418030850951261968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 844
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42b58cba5e8191b0800000000000000
+      internalID: -5651579537012182449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 894
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6d22a589f658e50800000000000000
+      internalID: 6810972711605688018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 724
+        width: 222
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ae24aa953d9b860800000000000000
+      internalID: 7546295032698038839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_5
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 884
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f183619b3c1441f0800000000000000
+      internalID: -1061692569984728583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 784
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae6c43d5e7a9b8c0800000000000000
+      internalID: -3982967789898142041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_7
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 734
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42474f05df2750830800000000000000
+      internalID: 4036759073318007844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 764
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10bd6ad95fe4e730800000000000000
+      internalID: 4027607135971815454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_9
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 744
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d300eac61476a5c0800000000000000
+      internalID: -4204545560861998121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_10
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 794
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf84bac46b377aeb0800000000000000
+      internalID: -4708667658585028356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_11
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 754
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39ab6ff61a02b530800000000000000
+      internalID: 3869166123755481403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 684
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eff4893f09ce1b0800000000000000
+      internalID: -5625962458585760189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 694
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630bbb4442db12cf0800000000000000
+      internalID: -278733738450636746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 634
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046497643680a0580800000000000000
+      internalID: -8860260094420892096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_15
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 664
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e312093e44f0f2de0800000000000000
+      internalID: -1355848174265163458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 474
+        width: 122
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb81aaca5454cf0800000000000000
+      internalID: -268731994868237166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 624
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b5c5ea798e95f60800000000000000
+      internalID: 8023699949300243339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_18
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f51514d5ca7010800000000000000
+      internalID: 1187478966443047339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_19
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 624
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c87ed1334f4ddae0800000000000000
+      internalID: -1522973948963292989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_20
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 604
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c148da792749a1b0800000000000000
+      internalID: -5644902414451981885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_21
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 604
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d971111a712e15780800000000000000
+      internalID: -8695920814361340003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 604
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319e6ad8e86f6e290800000000000000
+      internalID: -7861325007406307053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_23
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 544
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464a62ae46895fbf0800000000000000
+      internalID: -291159041702976412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 534
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ec419389ff95d70800000000000000
+      internalID: 9032531556926017116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_25
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 514
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b966732a7e29070800000000000000
+      internalID: 8111800562747874142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_26
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 494
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ef498384dc71f00800000000000000
+      internalID: 1087563545103892058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_27
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 514
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff44ea0abd2eb6700800000000000000
+      internalID: 534770413695026431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_28
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 564
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08102944b7ef15fd0800000000000000
+      internalID: -2354821324753206912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 444
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d0162c1e2e9bd0800000000000000
+      internalID: -2621607234650450505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_30
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 504
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028f593ab404adfa0800000000000000
+      internalID: -5775232878538000352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_31
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 484
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a922dee56e8ab00800000000000000
+      internalID: 840174625884379674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_32
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 504
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f8c9ba4566ecc0800000000000000
+      internalID: -3682144273709861428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_33
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 474
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d5bd7254260b910800000000000000
+      internalID: 1851087496010227058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_34
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 524
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a56ace3d23d230800000000000000
+      internalID: 3662320669689225275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_35
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 474
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c2c5be8850f3540800000000000000
+      internalID: 4989712997772176397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 394
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4ac7d3bd61f4e40800000000000000
+      internalID: 5642753989003748555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_37
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 454
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe00876bcd39ce6d0800000000000000
+      internalID: -2959828278925852433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_38
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 464
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c61ef86cd3766480800000000000000
+      internalID: -8906303822587095358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52521469d71a91d0800000000000000
+      internalID: -3343333550914907553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 334
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95183b2c5126c6e90800000000000000
+      internalID: -7031137072631807655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_41
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 414
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af3069580deca60800000000000000
+      internalID: 7696318085388827181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c6810df7b6c5680800000000000000
+      internalID: -8765012578073547662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_43
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 354
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347b48d7cd6ce48a0800000000000000
+      internalID: -6318894576853272765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_44
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 334
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dd2e157684dfd00800000000000000
+      internalID: 1008041500193512776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 274
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11edd6dd3117950800000000000000
+      internalID: 6444954383495860659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 284
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664d2c6755b4b680800000000000000
+      internalID: -8740161589737601425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_47
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 284
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce8a9a448b2e3e80800000000000000
+      internalID: -8197066424580403507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_48
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 304
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1940844594899030800000000000000
+      internalID: 3501975961891522845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_49
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 234
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a661907372b100800000000000000
+      internalID: 122287067205380581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_50
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 264
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f902fbe015db320800000000000000
+      internalID: 2575303685703769978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530ad1bc15d35950800000000000000
+      internalID: 6436722611662226258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 204
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628a0e3ca9d5cf6a0800000000000000
+      internalID: -6414148849989801946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_53
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 194
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047f5f287617772f0800000000000000
+      internalID: -975186104909695168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_54
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 224
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70036e15df11d72b0800000000000000
+      internalID: -5585288183171108857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805049eebe8d3bb20800000000000000
+      internalID: 3149099072293700872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_56
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 194
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f45c170ec8cea1f0800000000000000
+      internalID: -1031666477413149453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_57
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 174
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a523d9f28ba43380800000000000000
+      internalID: -8992373976926575197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_58
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 134
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2374e1467a707f80800000000000000
+      internalID: -8110848280564042964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_59
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 124
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144900d4655531e60800000000000000
+      internalID: 7931777197877007425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_60
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 164
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54012d7e893fe4d20800000000000000
+      internalID: 3264814617940070469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3fcdca8f36032d0800000000000000
+      internalID: -3301028607159372862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_62
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 64
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab1429cc727279a0800000000000000
+      internalID: -6236796653678617695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_63
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 124
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5247d9b63b4b26390800000000000000
+      internalID: -7826494519718874075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_64
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 44
+        width: 72
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94085c5ae96b4e0800000000000000
+      internalID: -1966209752480331326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_65
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 4
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a06781d5ef8a09d0800000000000000
+      internalID: -2807273200486489948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_66
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 34
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac3f60a48c574b70800000000000000
+      internalID: 8883170514708675757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_67
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 54
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d24c2e730ae7dd50800000000000000
+      internalID: 6762130666242720470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_68
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 44
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d07191e781296960800000000000000
+      internalID: 7595639114025758928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_69
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 0
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4a9b0a084578180800000000000000
+      internalID: -9113222409531841286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231c54b793a634880800000000000000
+      internalID: -8627935665997889230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9f1d080028e7300800000000000000
+      internalID: 251781567852181983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 14
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a171f717bb146c0800000000000000
+      internalID: -4160838484575708612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc23673891635db60800000000000000
+      internalID: 7770176215305302735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_74
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04939c246a273e250800000000000000
+      internalID: 5972743589234030912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_75
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8a98736a1e7cb40800000000000000
+      internalID: 5460581177222605006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_76
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 0
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b516559bca55780c0800000000000000
+      internalID: -4573592696239333029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_77
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 4
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0e146de7aaf84e0800000000000000
+      internalID: -1977174249655115534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_78
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2da00a98028d660800000000000000
+      internalID: 7410708962305823432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_79
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 0
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23bb80786179ea40800000000000000
+      internalID: 5397970321758991147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv 3 09_80
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 0
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5947be6a95bc970800000000000000
+      internalID: 8776206872311272869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lv 3 09_0: -5046651137494518208
+      lv 3 09_1: 6418030850951261968
+      lv 3 09_10: -4708667658585028356
+      lv 3 09_11: 3869166123755481403
+      lv 3 09_12: -5625962458585760189
+      lv 3 09_13: -278733738450636746
+      lv 3 09_14: -8860260094420892096
+      lv 3 09_15: -1355848174265163458
+      lv 3 09_16: -268731994868237166
+      lv 3 09_17: 8023699949300243339
+      lv 3 09_18: 1187478966443047339
+      lv 3 09_19: -1522973948963292989
+      lv 3 09_2: -5651579537012182449
+      lv 3 09_20: -5644902414451981885
+      lv 3 09_21: -8695920814361340003
+      lv 3 09_22: -7861325007406307053
+      lv 3 09_23: -291159041702976412
+      lv 3 09_24: 9032531556926017116
+      lv 3 09_25: 8111800562747874142
+      lv 3 09_26: 1087563545103892058
+      lv 3 09_27: 534770413695026431
+      lv 3 09_28: -2354821324753206912
+      lv 3 09_29: -2621607234650450505
+      lv 3 09_3: 6810972711605688018
+      lv 3 09_30: -5775232878538000352
+      lv 3 09_31: 840174625884379674
+      lv 3 09_32: -3682144273709861428
+      lv 3 09_33: 1851087496010227058
+      lv 3 09_34: 3662320669689225275
+      lv 3 09_35: 4989712997772176397
+      lv 3 09_36: 5642753989003748555
+      lv 3 09_37: -2959828278925852433
+      lv 3 09_38: -8906303822587095358
+      lv 3 09_39: -3343333550914907553
+      lv 3 09_4: 7546295032698038839
+      lv 3 09_40: -7031137072631807655
+      lv 3 09_41: 7696318085388827181
+      lv 3 09_42: -8765012578073547662
+      lv 3 09_43: -6318894576853272765
+      lv 3 09_44: 1008041500193512776
+      lv 3 09_45: 6444954383495860659
+      lv 3 09_46: -8740161589737601425
+      lv 3 09_47: -8197066424580403507
+      lv 3 09_48: 3501975961891522845
+      lv 3 09_49: 122287067205380581
+      lv 3 09_5: -1061692569984728583
+      lv 3 09_50: 2575303685703769978
+      lv 3 09_51: 6436722611662226258
+      lv 3 09_52: -6414148849989801946
+      lv 3 09_53: -975186104909695168
+      lv 3 09_54: -5585288183171108857
+      lv 3 09_55: 3149099072293700872
+      lv 3 09_56: -1031666477413149453
+      lv 3 09_57: -8992373976926575197
+      lv 3 09_58: -8110848280564042964
+      lv 3 09_59: 7931777197877007425
+      lv 3 09_6: -3982967789898142041
+      lv 3 09_60: 3264814617940070469
+      lv 3 09_61: -3301028607159372862
+      lv 3 09_62: -6236796653678617695
+      lv 3 09_63: -7826494519718874075
+      lv 3 09_64: -1966209752480331326
+      lv 3 09_65: -2807273200486489948
+      lv 3 09_66: 8883170514708675757
+      lv 3 09_67: 6762130666242720470
+      lv 3 09_68: 7595639114025758928
+      lv 3 09_69: -9113222409531841286
+      lv 3 09_7: 4036759073318007844
+      lv 3 09_70: -8627935665997889230
+      lv 3 09_71: 251781567852181983
+      lv 3 09_72: -4160838484575708612
+      lv 3 09_73: 7770176215305302735
+      lv 3 09_74: 5972743589234030912
+      lv 3 09_75: 5460581177222605006
+      lv 3 09_76: -4573592696239333029
+      lv 3 09_77: -1977174249655115534
+      lv 3 09_78: 7410708962305823432
+      lv 3 09_79: 5397970321758991147
+      lv 3 09_8: 4027607135971815454
+      lv 3 09_80: 8776206872311272869
+      lv 3 09_9: -4204545560861998121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
