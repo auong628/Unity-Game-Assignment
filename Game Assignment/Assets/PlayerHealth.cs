@@ -1,10 +1,11 @@
 
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int maxHealth = 5;
+    public int maxHealth = 3;
     private int currentHealth;
     public Image[] heartContainers; // Array for heart UI images
     public Sprite fullHeart;
@@ -48,6 +49,15 @@ public class PlayerHealth : MonoBehaviour
             }
         }
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Check if the player has collided with an enemy
+        if (collision.gameObject.CompareTag("Saw Blade Enemy"))
+        {
+            TakeDamage(3); // Adjust the damage amount as needed
+        }
+    }
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.H))
@@ -63,6 +73,10 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("Player Died!");
         // You can add more logic here for restarting the level or showing a game over screen.
+
+        Destroy(gameObject); // destroy the old player
+        Scene currentScene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(currentScene.name);
     }
 }
 
