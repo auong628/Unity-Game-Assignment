@@ -52,10 +52,14 @@ public class PlayerHealth : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        // Check if the player has collided with an enemy
+        // Check if the player has collided with a "Saw Blade Enemy" or "Zombie"
         if (collision.gameObject.CompareTag("Saw Blade Enemy"))
         {
             TakeDamage(3); // Adjust the damage amount as needed
+        }
+        if  (collision.gameObject.CompareTag("Enemy"))
+        {
+            TakeDamage(1); // Adjust the damage amount as needed
         }
     }
     void Update()

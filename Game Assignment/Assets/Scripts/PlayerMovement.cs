@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator anim;
     private bool grounded;
 
+
     private void Awake()
     {
         body = GetComponent<Rigidbody2D>();

@@ -6,14 +6,15 @@ TagManager:
   tags:
   - Ground
   - Saw Blade Enemy
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - enemyLayers
   - Water
   - UI
-  - 
+  - Enemy
   - 
   - 
   - 
