@@ -42,18 +42,19 @@ public class PlayerCombat : MonoBehaviour
 
         foreach (Collider2D enemy in hitEnemies)
         {
-            EnemyHealth eh = enemy.GetComponent<EnemyHealth>();
+            EnemyHealth normalEnemy = enemy.GetComponent<EnemyHealth>();
+            BossHealth bossEnemy = enemy.GetComponent<BossHealth>();
 
-            if (eh != null)
+            if (normalEnemy != null)
             {
-                Debug.Log($"✅ Damaging {enemy.gameObject.name}");
-                eh.TakeDamage(attackDamage);
+                normalEnemy.TakeDamage(attackDamage);
             }
-            else
+            else if (bossEnemy != null)
             {
-                Debug.Log($"❌ {enemy.gameObject.name} has no EnemyHealth script");
+                bossEnemy.TakeDamage(attackDamage);
             }
         }
+
     }
 
 

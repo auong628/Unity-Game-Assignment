@@ -4,11 +4,19 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] private float speed;
+    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float jumpForce = 10f;
+
     private Rigidbody2D body;
     private Animator anim;
     private bool grounded;
+    private bool isAttacking = false;
+    private bool isDead = false;
 
+    // Optional ground check system (recommended)
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private float groundCheckRadius = 0.2f;
+    [SerializeField] private LayerMask groundLayer;
 
     private void Awake()
     {
@@ -27,35 +35,67 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        if (isDead) return; // Prevent all actions if dead
+
+        // Check if grounded (using overlap circle)
+        if (groundCheck != null)
+        {
+            grounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        }
+
+        // If attacking, stop movement
+        if (isAttacking)
+        {
+            body.velocity = new Vector2(0, body.velocity.y);
+            return;
+        }
+
+        // Movement
         float horizontalInput = Input.GetAxis("Horizontal");
-        body.velocity = new Vector2(horizontalInput * speed, body.velocity.y);
+        body.velocity = new Vector2(horizontalInput * moveSpeed, body.velocity.y);
 
-        // Adjusted for sprite size of 1.5
+        // Flip player left/right
         float spriteSize = 1.5f;
-
-        // Flip player when facing left/right.
         if (horizontalInput > 0.01f)
-            transform.localScale = new Vector3(spriteSize,
-            spriteSize, spriteSize);
+            transform.localScale = new Vector3(spriteSize, spriteSize, spriteSize);
         else if (horizontalInput < -0.01f)
-            transform.localScale = new Vector3(-spriteSize,
-            spriteSize, spriteSize);
+            transform.localScale = new Vector3(-spriteSize, spriteSize, spriteSize);
 
-        if (Input.GetKey(KeyCode.Space) && grounded)
+        // Jump
+        if (Input.GetKeyDown(KeyCode.Space) && grounded)
             Jump();
 
+        // Update animator
         anim.SetBool("walk", horizontalInput != 0);
         anim.SetBool("grounded", grounded);
     }
+
     private void Jump()
     {
-        body.velocity = new Vector2(body.velocity.x, speed);
+        body.velocity = new Vector2(body.velocity.x, jumpForce);
         anim.SetTrigger("jump");
         grounded = false;
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+
+    // Called from attack script when starting/stopping attack
+    public void SetAttacking(bool state)
     {
-        if (collision.gameObject.tag == "Ground")
-            grounded = true;
+        isAttacking = state;
+    }
+
+    // Called from health script when dying
+    public void Die()
+    {
+        isDead = true;
+        body.velocity = Vector2.zero;
+        anim.SetTrigger("die");
+    }
+
+    // Debug visualization for ground check
+    private void OnDrawGizmosSelected()
+    {
+        if (groundCheck == null) return;
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 }
