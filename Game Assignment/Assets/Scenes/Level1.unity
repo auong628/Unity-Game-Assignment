@@ -3912,7 +3912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c22d77b62dda78c42b24dd309bf8b50d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 1
   pointA: {fileID: 1788447770}
   pointB: {fileID: 1800780266}
 --- !u!95 &1211350620
