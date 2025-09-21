@@ -1,19 +1,22 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Checkpoint : MonoBehaviour
+public class LevelPortal : MonoBehaviour
 {
-    // The name of the scene to load after the player reaches the checkpoint
-    public string nextLevelName;
-    // This method gets called when the player enters the trigger area
-    private void OnTriggerEnter2D(Collider2D other)
+    [SerializeField] private string nextSceneName = "Level2"; // Assign in Inspector
+    [SerializeField] private float delayBeforeLoad = 0.5f;    // Optional delay
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (other.CompareTag("Player")) // Make sure the object is the player
+        if (collision.CompareTag("Player"))
         {
-            // Load the next level (e.g., Level 2)
-            SceneManager.LoadScene(nextLevelName);
+            Debug.Log("Player entered portal, loading " + nextSceneName);
+            Invoke(nameof(LoadNextScene), delayBeforeLoad);
         }
+    }
+
+    private void LoadNextScene()
+    {
+        SceneManager.LoadScene(nextSceneName);
     }
 }

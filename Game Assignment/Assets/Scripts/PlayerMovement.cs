@@ -23,15 +23,8 @@ public class PlayerMovement : MonoBehaviour
         body = GetComponent<Rigidbody2D>();
         body.constraints = RigidbodyConstraints2D.FreezeRotation;
         anim = GetComponent<Animator>();
-
-        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
-        if (players.Length > 1)
-        {
-            Destroy(gameObject);
-            return;
-        }
-        DontDestroyOnLoad(gameObject);
     }
+
 
     private void Update()
     {
